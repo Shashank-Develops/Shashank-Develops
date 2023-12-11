@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashank-Develops&show_icons=true&locale=en" alt="shashankdhauni"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Develops&" alt="shashankdhauni" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Shashank-Develops"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Shashank-Develops" /></a></p><br><br>
