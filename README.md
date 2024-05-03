@@ -1,4 +1,4 @@
-![logo](https://github.com/Shashank-Develops/Shashank-Develops/blob/main/BANNER.png)
+
 <h1 align="center">Hi 👋, I'm Shashank Dhauni</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
